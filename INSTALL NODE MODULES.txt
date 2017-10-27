@@ -1,0 +1,9 @@
+First and first type this in Command Prompt
+cd Desktop
+
+Now this
+cd VladDiscoBot
+
+Is time to install Node Modules
+npm install discord.js --save
+
